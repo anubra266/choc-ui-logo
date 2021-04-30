@@ -34,7 +34,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "choc-ui-logo",
+  "name": "@choc-ui/logo",
   "author": "anubra266",
   "module": "dist/choc-ui-logo.esm.js",
   "size-limit": [

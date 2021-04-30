@@ -3,6 +3,7 @@ import { Icon, useToken } from '@chakra-ui/react';
 
 export const Logo = () => {
   const [brand400, brand600] = useToken('colors', ['brand.400', 'brand.600']);
+  console.log('🚀 ~ file: index.tsx ~ line 6 ~ Logo ~ brand400', brand400);
   return (
     <Icon
       boxSize={30}
